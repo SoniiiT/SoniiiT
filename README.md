@@ -1,25 +1,25 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm SoniiiT</h1>
+<h3 align="center">A guy who have fun with Computer and tries a lot different things</h3>
 
-<a href="https://github.com/aceisace">
-  <img src="https://github-readme-stats.vercel.app/api?username=soniiit&count_private=true&show_icons=true&theme=radical" height="180px"/>
-</a>
-<a href="https://github.com/aceisace">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soniiit&layout=compact&&theme=radical" height="180px"/>
-</a>
+- 🌱 I’m currently learning **C# and Powershell**
 
-![](https://komarev.com/ghpvc/?username=soniiit)
+- 👨‍💻 All of my projects are available at [https://github.com/SoniiiT?tab=repositories](https://github.com/SoniiiT?tab=repositories)
 
-<!--
-**SoniiiT/SoniiiT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ⚡ Fun fact **I'm a lazy boy who wants to Automate as much as possible**
 
-Here are some ideas to get you started:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/soniiit_live" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="soniiit_live" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/soniiitony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="soniiitony" height="30" width="40" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soniiit&show_icons=true&theme=radical&locale=en&layout=compact" alt="soniiit" height="150px/></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soniiit&show_icons=true&theme=radical&locale=en" alt="soniiit" height="150px/></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soniiit&theme=dark" alt="soniiit" height="150px/></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=soniiit&label=Profile%20views&color=0e75b6&style=flat" alt="soniiit" /> </p>

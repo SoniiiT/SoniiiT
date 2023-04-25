@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 <a href="https://github.com/aceisace">
-  <img src="https://github-readme-stats.vercel.app/api?username=soniiit&count_private=true&show_icons=true&theme=radical" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=soniiit&count_private=true&show_icons=true&theme=radical" height="180px"/>
 </a>
 <a href="https://github.com/aceisace">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soniiit&layout=compact&&theme=radical" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soniiit&layout=compact&&theme=radical" height="180px"/>
 </a>
 ![](https://komarev.com/ghpvc/?username=soniiit)
 

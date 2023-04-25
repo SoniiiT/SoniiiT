@@ -20,13 +20,14 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soniiit&show_icons=true&theme=radical&locale=en" alt="soniiit" /></p>
 
-<a href="https://github.com/aceisace">
-  <img src="https://github-readme-stats.vercel.app/api?username=soniiit&count_private=true&show_icons=true&theme=radical&locale=en" height="150px"/>
+<a href="https://github.com/soniiit">
+  <img src="https://github-readme-stats.vercel.app/api?username=soniiit&count_private=true&show_icons=true&theme=radical&locale=en" height="160px"/>
 </a>
-<a href="https://github.com/aceisace">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soniiit&layout=compact&theme=radical&locale=en" height="150px"/>
+<a href="https://github.com/soniiit">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soniiit&layout=compact&theme=radical&locale=en" height="160px"/>
 </a>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soniiit&theme=dark" alt="soniiit" /</p>
+<a href="https://github.com/soniiit">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soniiit&theme=dark" height="160px"/>
+</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soniiit&label=Profile%20views&color=0e75b6&style=flat" alt="soniiit" /> </p>

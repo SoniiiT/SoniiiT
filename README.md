@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SoniiiT?tab=repositories](https://github.com/SoniiiT?tab=repositories)
 
-- ⚡ Fun fact **I'm a lazy boy who wants to Automate as much as possible**
+- ⚡ Fun fact **I'm a lazy boy who wants to Automate everything as much as possible**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

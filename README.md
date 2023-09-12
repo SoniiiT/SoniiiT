@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SoniiiT</h1>
-<h3 align="center">A guy who have fun with Computers and tries a lot of different things with it</h3>
+<h3 align="center">A guy who has fun with Computers and tries a lot of different things with it</h3>
 
 - 🌱 I’m currently learning **C# and Powershell**
 

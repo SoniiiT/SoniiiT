@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/soniiit_live" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="soniiit_live" height="30" width="40" /></a>
-<a href="[[https://www.youtube.com/c/soniiitony](https://www.youtube.com/channel/UCLcnYeGj4ZY5mJHzotI3qfA)](https://www.youtube.com/channel/UCLcnYeGj4ZY5mJHzotI3qfA)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="soniiitony" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCLcnYeGj4ZY5mJHzotI3qfA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="soniiitony" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -22,8 +22,5 @@
 <a href="https://github.com/soniiit">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soniiit&layout=compact&theme=radical&locale=en" height="180px"/>
 </a>
-<a href="https://github.com/soniiit">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soniiit&theme=dark" height="170px"/>
-</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soniiit&label=Profile%20views&color=0e75b6&style=flat" alt="soniiit" /> </p>

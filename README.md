@@ -20,9 +20,8 @@
 
 ### Frontend  
 <div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="50" /></a>  
+<a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=grafana" alt="Grafana" width="50" height="50"/></a>  
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=photoshop" alt="Photoshop" width="50" height="50"/></a>  
 </div>
 
 </td><td valign="top" width="33%">
@@ -31,13 +30,12 @@
 
 ### Backend  
 <div align="center">  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+<a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="50" height="50"/></a>  
+<a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=py" alt="Python" width="50" height="50"/></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50"/></a>  
+<a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MariaDB" width="50" height="50"/></a>  
+<a href="https://ollama.ai/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/ollama" alt="Ollama" width="50" height="50"/></a>  
 </div>
 
 </td><td valign="top" width="33%">
@@ -46,11 +44,12 @@
 
 ### DevOps  
 <div align="center">  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=bash" alt="Bash" width="50" height="50"/></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" height="50"/></a>  
+<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="50" height="50"/></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50" height="50"/></a>  
+<a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=postman" alt="Postman" width="50" height="50"/></a>  
+<a href="https://www.vagrantup.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" alt="Vagrant" width="50" height="50"/></a>  
 </div>
 
 </td></tr></table>  
@@ -63,6 +62,8 @@
 
 <div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soniiit&hide_border=true&theme=radical&layout=compact" align="right" /></div>  
 
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SoniiiT&theme=radical&hide_border=true" alt="SoniiiT" /></p>  
+
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎   ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎   ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎   ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎   
   
 
@@ -71,23 +72,19 @@
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎   ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎   ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎   
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/SoniiiT" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://gitlab.com/SoniiiTony" target="_blank">
-<img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/SoniiiT_live" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/antonioromeropenin" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/tony_iyooo" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+<a href="https://github.com/SoniiiT" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="SoniiiT" height="30" width="40" /></a>
+<a href="https://dev.to/soniiit" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="soniiit" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/antonioromeropenin" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antonioromeropenin" height="30" width="40" /></a>
+<a href="https://twitter.com/SoniiiT_Live" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SoniiiT_Live" height="30" width="40" /></a>
+<a href="https://medium.com/@soniiit" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@soniiit" height="30" width="40" /></a>
+<a href="https://youtube.com/soniiitony" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="soniiitony" height="30" width="40" /></a>
 </div>  
   
+
+<br/>  
+
+## GitHub Trophies  
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SoniiiT" alt="SoniiiT" /></a> </p>
 
 <br/>  
 

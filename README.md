@@ -71,7 +71,7 @@
 <a href="https://linkedin.com/in/antonioromeropenin" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antonioromeropenin" height="30" width="40" /></a>
 <a href="https://twitter.com/SoniiiT_Live" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SoniiiT_Live" height="30" width="40" /></a>
 <a href="https://medium.com/@soniiit" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@soniiit" height="30" width="40" /></a>
-<a href="https://youtube.com/soniiitony" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="soniiitony" height="30" width="40" /></a>
+<a href="https://youtube.com/@soniiitony" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@soniiitony" height="30" width="40" /></a>
 </div>  
   
 

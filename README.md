@@ -14,7 +14,7 @@
 
 
 ## My Skill Set  
-<table style="border-collapse: collapse; border: 0;"><tr style="border: 0;"><td valign="top" width="33%" style="border: 0; padding: 0;">
+<table><tr><td valign="top" width="33%">
 
 <h3 align="center">Frontend</h3>  
 <div align="center">  
@@ -22,7 +22,7 @@
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=photoshop" alt="Photoshop" width="50" height="50"/></a>  
 </div>
 
-</td><td valign="top" width="33%" style="border: 0; padding: 0;">
+</td><td valign="top" width="33%">
 
 <h3 align="center">Backend</h3>  
 <div align="center">  
@@ -34,7 +34,7 @@
 <a href="https://ollama.ai/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/ollama" alt="Ollama" width="50" height="50"/></a>  
 </div>
 
-</td><td valign="top" width="33%" style="border: 0; padding: 0;">
+</td><td valign="top" width="33%">
 
 <h3 align="center">DevOps</h3>  
 <div align="center">  

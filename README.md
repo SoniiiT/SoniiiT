@@ -14,21 +14,17 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table style="border: none;"><tr><td valign="top" width="33%" style="border: none;">
 
-
-
-### Frontend  
+<h3 align="center">Frontend</h3>  
 <div align="center">  
 <a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=grafana" alt="Grafana" width="50" height="50"/></a>  
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=photoshop" alt="Photoshop" width="50" height="50"/></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="33%" style="border: none;">
 
-
-
-### Backend  
+<h3 align="center">Backend</h3>  
 <div align="center">  
 <a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="50" height="50"/></a>  
 <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/></a>  
@@ -38,11 +34,9 @@
 <a href="https://ollama.ai/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/ollama" alt="Ollama" width="50" height="50"/></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="33%" style="border: none;">
 
-
-
-### DevOps  
+<h3 align="center">DevOps</h3>  
 <div align="center">  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=bash" alt="Bash" width="50" height="50"/></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" height="50"/></a>  
@@ -61,6 +55,10 @@
 <img src="https://github-readme-stats.vercel.app/api?username=soniiit&count_private=true&show_icons=true&hide_border=true&theme=radical&locale=en" align="left" />   
 
 <div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soniiit&hide_border=true&theme=radical&layout=compact" align="right" /></div>  
+
+<br clear="both"/>  
+
+<br/>  
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SoniiiT&theme=radical&hide_border=true" alt="SoniiiT" /></p>  
 

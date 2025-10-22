@@ -14,7 +14,7 @@
 
 
 ## My Skill Set  
-<table style="border: none;"><tr><td valign="top" width="33%" style="border: none;">
+<table style="border-collapse: collapse; border: 0;"><tr style="border: 0;"><td valign="top" width="33%" style="border: 0; padding: 0;">
 
 <h3 align="center">Frontend</h3>  
 <div align="center">  
@@ -22,7 +22,7 @@
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=photoshop" alt="Photoshop" width="50" height="50"/></a>  
 </div>
 
-</td><td valign="top" width="33%" style="border: none;">
+</td><td valign="top" width="33%" style="border: 0; padding: 0;">
 
 <h3 align="center">Backend</h3>  
 <div align="center">  
@@ -34,7 +34,7 @@
 <a href="https://ollama.ai/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/ollama" alt="Ollama" width="50" height="50"/></a>  
 </div>
 
-</td><td valign="top" width="33%" style="border: none;">
+</td><td valign="top" width="33%" style="border: 0; padding: 0;">
 
 <h3 align="center">DevOps</h3>  
 <div align="center">  
@@ -62,12 +62,8 @@
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SoniiiT&theme=radical&hide_border=true" alt="SoniiiT" /></p>  
 
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎   ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎   ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎   ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎   
-  
-
 <br/>  
 
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎   ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎   ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎   
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/SoniiiT" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="SoniiiT" height="30" width="40" /></a>
